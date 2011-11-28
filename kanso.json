@@ -1,6 +1,7 @@
 {
     "name": "showdown",
     "version": "0.0.1",
+    "categories": ["parsers"],
     "modules": "showdown.js",
     "dependencies": {
         "modules": ">=0.0.8"
